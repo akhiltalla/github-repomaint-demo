@@ -1,0 +1,25 @@
+{
+  "name": "github-repomaint-demo",
+  "version": "1.0.0",
+  "description": "Github Mock Try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhiltalla/github-repomaint-demo.git"
+  },
+  "author": "Akhil Talla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhiltalla/github-repomaint-demo/issues"
+  },
+  "homepage": "https://github.com/akhiltalla/github-repomaint-demo#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^2.2.0",
+    "simple-git": "^2.24.0"
+  }
+}
